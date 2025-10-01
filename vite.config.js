@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),tailwindcss()],
-  base:"/Zosi-Portfolio2",
+  base:"/Zosi-Portfolio1",
 });
